@@ -1,0 +1,12 @@
+# check_uptime.yml
+- name: Check uptime on multiple servers
+  hosts: kubernetes-hosts
+  gather_facts: no
+  tasks:
+    - name: Get uptime
+      command: uptime
+      register: uptime_result
+
+    - name: Display uptime
+      debug:
+        var: uptime_result.stdout
