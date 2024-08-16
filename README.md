@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crothman0582
-- 👀 I’m interested in automation working with Jenkins
-- 🌱 I’m currently learning Jenkins
-- 💞️ I’m looking to collaborate on automation with Jenkins
+- 👀 I’m interested in automation working with Ansible
+- 🌱 I’m currently learning Ansible
+- 💞️ I’m looking to collaborate on automation with Ansible
 - 📫 How to reach me at the moment, i'll add my email once I get comfortable on Github.
 
 <!---
